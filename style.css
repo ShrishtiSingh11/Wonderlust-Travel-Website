@@ -29,3 +29,15 @@ nav a{
     font-size: 14px;
 } 
 
+.nav-btn {
+    background-color: #0077B6;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 25px;
+}
+
+nav a.active {
+    color: #005D90;
+    border-bottom: 2px solid #0085C7;
+    padding-bottom: 5px;
+}
